@@ -1,6 +1,16 @@
 # FizzBuzzElixirClient
 
-**TODO: Add description**
+## Compilation
+
+```
+mix escript.build
+```
+
+## Operation
+
+```
+./fizz_buzz_elixir_client --page=2 --size=10
+```
 
 ## Installation
 
